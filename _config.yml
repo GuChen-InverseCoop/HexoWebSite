@@ -122,7 +122,7 @@ postInfo:
   totalCount: false # set true.
   min2read: false # set true.
   readCount: false # set true.
-# Add emoji support 
+# Add emoji support
 githubEmojis:
   enable: true
   className: github-emoji
