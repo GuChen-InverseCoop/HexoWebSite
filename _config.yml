@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: GuInverseCoop
-subtitle: '顾辰课题组'
-description: '清华大学土木工程系顾辰'
+title: GuChen-InverseCoop
+subtitle: GuChen LAB
+description: Department of Civil Engineering
 keywords: Group,LAB
 author: GuChen
-language: zh-CN
+language: en
 timezone: Asia/Shanghai
 
 # URL

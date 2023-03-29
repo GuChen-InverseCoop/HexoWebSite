@@ -5,8 +5,3 @@ type: "about"
 layout: "about"
 ---
 
-
-随便写
-
-# 顾老师课题组历史悠久
-## 人气旺
