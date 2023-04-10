@@ -13,27 +13,26 @@ menu:
   # Archives:
   #   url: /archives
   #   icon: fas fa-archive
-  Introduction:
-    url: /introduction
-    icon: fas fa-industry
+
   Research:
     url: /research
-    icon: fas fa-researchgate
+    icon: fas fa-tags
   Reward:
     url: /reward
     icon: fas fa-medal
   Paper:
     url: /paper
     icon: fas fa-book
+  People:
+    url: categories/people
+    icon: fas fa-people-carry
+
   About:
     url: /about
     icon: fas fa-user-circle
   Contact:
     url: /contact
     icon: fas fa-comments
-  Friends:
-    url: /friends
-    icon: fas fa-address-book
   # 二级菜单写法如下
   #Medias:
   #  icon: fas fa-list
